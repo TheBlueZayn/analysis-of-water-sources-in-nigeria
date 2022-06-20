@@ -20,3 +20,6 @@ Dataset from the Nigerian Health Demographics carried out in 2018
 - The best and worst states were visualised
 - All the plots were customised with suitable colors, fontsizes, labels and titles. 
 
+## Contributions
+To make a contribution, create a new branch and make a pull request. 
+
