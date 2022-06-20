@@ -1,19 +1,21 @@
-# analysis-of-water-sources-in-nigeria
+# Nigeria Source Of Drinking Water
+- From the Nigerian Health Demographics in 2018
   Data Science Project
-- cfafr    
-.csv is the data of analysis
+- cfafrica-_-data-team-_-outbreak-_-covid19-_-openafrica-uploads-_-nigeria-source-of-drinking-wate.csv is the data of analysis    
 - main.ipynb contains the code for the analysis
 
 ## Libraries Used
 - Pandas for data  analysis and wrangling 
-- Numpy for imputing null values
+- Seaborn for visualisation
 - Matplotlib for visualisation
 
-## Analysis of Fake Job Postings
+## Analysis on sources of drinking water in Nigeria
 ## Steps 
 - Loading CSV file into a dataframe and inspecting it
-- Cleaning the dataset
-- Analysing Industries with high fraudulence 
-- Subsetting the first 15 values and plotting a horizontal barplot
-- Customizing the plot with suitable color, fontsize, labels and title. 
+- Determining the correlation between the numerical columns 
+- Bulding a heatmap of the correlation matrix to aid visualisation
+- Subsetting data into Urban and Rural areas and visualising the various sources 
+- Subsetting data into the geo-political zones and States
+- The best and worst states were visualised
+- All the plots were customised with suitable colors, fontsizes, labels and titles. 
 
