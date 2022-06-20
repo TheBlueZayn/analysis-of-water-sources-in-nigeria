@@ -1,6 +1,6 @@
-# Nigeria Source Of Drinking Water
-- From the Nigerian Health Demographics in 2018
-  Data Science Project
+# Nigeria Sources Of Drinking Water
+## Data Science Project
+Dataset from the Nigerian Health Demographics carried out in 2018
 - cfafrica-_-data-team-_-outbreak-_-covid19-_-openafrica-uploads-_-nigeria-source-of-drinking-wate.csv is the data of analysis    
 - main.ipynb contains the code for the analysis
 
@@ -10,6 +10,7 @@
 - Matplotlib for visualisation
 
 ## Analysis on sources of drinking water in Nigeria
+
 ## Steps 
 - Loading CSV file into a dataframe and inspecting it
 - Determining the correlation between the numerical columns 
